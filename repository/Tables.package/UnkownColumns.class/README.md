@@ -1,0 +1,1 @@
+I am the error raised when one or more column(s) name are not included in the header of a table.

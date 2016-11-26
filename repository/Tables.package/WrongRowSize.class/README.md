@@ -1,0 +1,1 @@
+I am the error raised when a row of wrong size is added to a table.

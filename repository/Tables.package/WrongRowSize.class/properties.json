@@ -1,0 +1,14 @@
+{
+	"category" : "Tables",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/24/2016 20:41",
+	"instvars" : [
+		"expectedSize" ],
+	"name" : "WrongRowSize",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

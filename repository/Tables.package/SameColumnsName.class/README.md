@@ -1,0 +1,1 @@
+I am the error raised when two tables have columns with the same name and have to be joined.

@@ -1,0 +1,1 @@
+I am table. I define operations similar to the one available for SQL tables.

@@ -1,0 +1,14 @@
+{
+	"category" : "Tables",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/24/2016 20:57",
+	"instvars" : [
+		"columns" ],
+	"name" : "UnkownColumns",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
