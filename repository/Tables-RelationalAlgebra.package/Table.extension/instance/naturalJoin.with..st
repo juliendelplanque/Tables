@@ -1,6 +1,6 @@
 *Tables-RelationalAlgebra
 naturalJoin: aBlock with: aTable
-	"Perform an inner join on columns name with aBlock and aTable.
+	"Perform a antural join on columns name with aBlock and aTable.
 	"
 	| result |
 	(self header intersection: aTable header) ifNotEmpty: [ 
