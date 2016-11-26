@@ -1,0 +1,15 @@
+{
+	"category" : "Tables-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"table1",
+		"table2" ],
+	"name" : "TableTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
