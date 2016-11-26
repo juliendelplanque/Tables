@@ -1,4 +1,4 @@
-# Tables
+# Tables [![Build Status](https://travis-ci.org/juliendelplanque/Tables.svg?branch=master)](https://travis-ci.org/juliendelplanque/Tables)
 Manipulate tables in Pharo.
 
 ## Install
