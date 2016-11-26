@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTables",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTables",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
