@@ -7,6 +7,6 @@ select: aBlock
 	| selected |
 	selected := self class header: self header.
 	self rows do: [ :row |
-		(aBlock valueWithArguments: row)
+		(aBlock value: row)
 			ifTrue: [ selected addRow: row ] ].
 	^ selected
